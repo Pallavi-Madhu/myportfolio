@@ -6,7 +6,7 @@ body {
 #logo {
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: white;
+    color:transparent;
     font-weight: 75; 
     padding: 10px;
 }
