@@ -4,6 +4,7 @@ body {
 }
 
 #logo {
+    display:none;
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:transparent;
